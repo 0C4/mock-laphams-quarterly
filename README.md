@@ -1,6 +1,6 @@
-# (MOCK) LAPHAM'S QUARTERLY
+# MOCK LAPHAM'S QUARTERLY
 
-These are mock versions of Lapham;s Quarterly issues of topics that havn't been covered yet. Basically they are fan art of sorts. I highly admire the quarterly's quality and decided to have a bit of fun. Obviously, all the mock-copies are highly, highly incomplete. At them moment, they are mostly scaffolding with much of the text to be included as time permits. 
+These are mock versions of Lapham's Quarterly issues of topics that havn't been covered yet. They are fan art of sorts as I highly admire the quarterly's design and purpose. Currently, all the mock-copies are highly incomplete and inaccurate (clearly). At them moment, they are mostly scaffolding with much of the text to be included as time permits. 
 
 ---
 
