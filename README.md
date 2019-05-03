@@ -6,10 +6,10 @@ These are mock versions of Lapham;s Quarterly issues of topics that havn't been 
 
 #### Table of Contents
 
-- ##### Volume XXXI, Number 1 Anarchy
-- ##### Volume XXXI, Number 2 Machines
-- ##### Volume XXXI, Number 3 Collapse
-- ##### Volume XXXI, Number 4 Bacchus
+- ##### Volume XXXII, Number 1 Anarchy
+- ##### Volume XXXII, Number 2 Machines
+- ##### Volume XXXII, Number 3 Collapse
+- ##### Volume XXXII, Number 4 Bacchus
 - ##### Special Issue, Mathematics
 Future ideas: Leasure and Idle, Peace, Labor & Toil
 
