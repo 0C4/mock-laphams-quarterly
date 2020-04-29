@@ -1,3 +1,5 @@
+(These shall remain horribly out-of-date until I purchase a subscription to the editing software again)
+
 # MOCK LAPHAM'S QUARTERLY
 
 These are mock versions of Lapham's Quarterly issues of topics that havn't been covered yet. They are fan art of sorts as I highly admire the quarterly's design and purpose. Currently, all the mock-copies are highly incomplete and inaccurate (clearly). At them moment, they are mostly scaffolding with much of the text to be included as time permits. 
